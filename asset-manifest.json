@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/RomanOdessa75/goit-react-hw-01-components/static/css/main.c8ebc1be.css",
-    "main.js": "/RomanOdessa75/goit-react-hw-01-components/static/js/main.f85ece92.js",
-    "index.html": "/RomanOdessa75/goit-react-hw-01-components/index.html",
-    "main.c8ebc1be.css.map": "/RomanOdessa75/goit-react-hw-01-components/static/css/main.c8ebc1be.css.map",
-    "main.f85ece92.js.map": "/RomanOdessa75/goit-react-hw-01-components/static/js/main.f85ece92.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.c8ebc1be.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.f85ece92.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.c8ebc1be.css.map": "/goit-react-hw-01-components/static/css/main.c8ebc1be.css.map",
+    "main.f85ece92.js.map": "/goit-react-hw-01-components/static/js/main.f85ece92.js.map"
   },
   "entrypoints": [
     "static/css/main.c8ebc1be.css",
